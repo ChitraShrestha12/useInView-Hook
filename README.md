@@ -1,13 +1,34 @@
-# React + Vite
+# React Scroll Animations with `useInView`
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎬 Live Demo: [https://triggerscrolling.netlify.app/](https://triggerscrolling.netlify.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📖 About
 
-## Expanding the ESLint configuration
+A simple React app showing how to create **scroll-triggered animations** using the [`useInView`](https://www.npmjs.com/package/react-intersection-observer) hook.  
+Sections fade in as they enter the viewport — no extra libraries, only `useInView`.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# useInView-Hook
+---
+
+## ✨ Features
+
+- Scroll-triggered **fade-in animations**
+- Uses only **`useInView` hook**
+- Clean React + Vite setup
+- Lightweight & responsive
+
+---
+
+## 🚀 Setup & Run
+
+```bash
+# Clone repo
+git clone https://github.com/ChitraShrestha12/useInView-Hook.git
+cd useInView-Hook
+
+# Install dependencies
+npm install
+
+# Start dev server
+npm run dev
