@@ -1,25 +1,23 @@
-# React Scroll Animations with `useInView`
+# useInView Scroll Animations
 
-🎬 Live Demo: <a href="https://triggerscrolling.netlify.app/" target="_blank">https://triggerscrolling.netlify.app/</a>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://triggerscrolling.netlify.app/)
+[![Downloads](https://img.shields.io/npm/dm/react-intersection-observer.svg)](https://www.npmjs.com/package/react-intersection-observer)
 
-
----
-
-## 📖 About
-
-A simple React app showing how to create **scroll-triggered animations** using the [`useInView`](https://www.npmjs.com/package/react-intersection-observer) hook.  
-Sections fade in as they enter the viewport — no extra libraries, only `useInView`.
+A React project demonstrating **scroll-triggered animations** using the [`useInView`](https://www.npmjs.com/package/react-intersection-observer) hook. Sections fade in when they enter the viewport, making your website more engaging.
 
 ---
 
-## ✨ Features
+## Features
 
-- Scroll-triggered **fade-in animations**
-- Uses only **`useInView` hook**
-- Clean React + Vite setup
-- Lightweight & responsive
+- 🪝 **React `useInView` Hook** – Monitor elements entering the viewport with ease
+- ⚡️ **Optimized Performance** – Uses Intersection Observer efficiently
+- 🎨 **Fade-in Animations** – Smooth animations triggered on scroll
+- 🛠 **Vite + React Setup** – Lightweight, fast, and modern development environment
+- 🌳 **Tiny Bundle** – Only includes what’s necessary
 
 ---
+
+## Installation
 
 ## 🚀 Setup & Run
 
