@@ -1,6 +1,7 @@
 # React Scroll Animations with `useInView`
 
-🎬 Live Demo: [https://triggerscrolling.netlify.app/](https://triggerscrolling.netlify.app/)
+🎬 Live Demo: <a href="https://triggerscrolling.netlify.app/" target="_blank">https://triggerscrolling.netlify.app/</a>
+
 
 ---
 
